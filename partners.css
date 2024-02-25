@@ -1,0 +1,29 @@
+.redbutton>div>div>a {
+    color: #EE4A25;
+}
+
+.hastitle>div>div>.rowtitle {
+    color: #EE4A25;
+}
+
+.removepaddingbottom>div {
+    padding-bottom: 10px;
+}
+
+.removepaddingtop>div {
+    padding-top: 10px;
+}
+
+.themeA {
+    background-color: #EE4A25;
+    color: #ffffff;
+}
+
+.themeB {
+    background-color: #E9E0D9;
+}
+
+.themeB>.section-row>div>p {
+    color: #EE4A25;
+    text-align: center;
+}
